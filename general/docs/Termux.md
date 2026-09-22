@@ -15,7 +15,7 @@ pkg upgrade
 pkg update && pkg upgrade
 ```
 
--Enable Storage
+- Enable Storage
 ```bash
 termux-setup-storage
 ```
