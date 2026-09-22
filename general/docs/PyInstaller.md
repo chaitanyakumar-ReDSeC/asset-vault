@@ -11,9 +11,6 @@ pyinstaller -{flags} {script.py}
 ```bash
 --onefile
 ```
-
-or
-
 ```bash
 -F
 ```
@@ -22,9 +19,6 @@ or
 ```bash
 --onedir
 ```
-
-or
-
 ```bash
 -D
 ```
@@ -33,9 +27,6 @@ or
 ```bash
 --name "App Name"
 ```
-
-or
-
 ```bash
 -n
 ```
@@ -45,9 +36,6 @@ or
 ```bash
 --noconsole 
 ```
-
-or
-
 ```bash
 -w
 ```
@@ -56,9 +44,6 @@ or
 ```bash
 --icon="icon.ico"
 ```
-
-or
-
 ```bash
 -i
 ```
@@ -85,9 +70,6 @@ or
 ```bash
 --noconfirm
 ```
-
-or
-
 ```bash
 -y
 ```
